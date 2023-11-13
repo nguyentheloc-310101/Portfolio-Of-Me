@@ -12,8 +12,6 @@
   
 - 📫 How to reach me **nguyentheloc310101@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/AANYBFFRAQJQUAZXB19WXFNXAAQFXAcABwBWUwf8ed](https://www.topcv.vn/xem-cv/AANYBFFRAQJQUAZXB19WXFNXAAQFXAcABwBWUwf8ed)
-
 - ⚡ Fun fact **Im half extrovert and half introvert :)**
 
 ### Blogs posts
