@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Vistor Management Embed AI solution (face detection) and some e-commerce websites**
+- 🔭 I’m currently working on **Vistor Management Embed AI solution (face detection) Native App and some e-commerce websites**
 
 - 🌱 I’m currently learning **Nextjs, supabase, Pygame,TailwindCSS, Vitejs, TinyML, ExpressJs, Flutter, Nodejs**
   
