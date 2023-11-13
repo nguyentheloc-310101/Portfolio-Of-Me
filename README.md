@@ -9,12 +9,8 @@
 - 🔭 I’m currently working on **Vistor Management Embed AI solution (face detection) and some e-commerce websites**
 
 - 🌱 I’m currently learning **Nextjs, supabase, Pygame,TailwindCSS, Vitejs, TinyML, ExpressJs, Flutter, Nodejs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nguyentheloc-310101](https://github.com/nguyentheloc-310101)
-
-- 💬 Ask me about **Software things :) maybe hardware as well**
-
-- 📫 How to reach me **nguyentheloc310101@gamil.com**
+  
+- 📫 How to reach me **nguyentheloc310101@gmail.com**
 
 - 📄 Know about my experiences [https://www.topcv.vn/xem-cv/AANYBFFRAQJQUAZXB19WXFNXAAQFXAcABwBWUwf8ed](https://www.topcv.vn/xem-cv/AANYBFFRAQJQUAZXB19WXFNXAAQFXAcABwBWUwf8ed)
 
