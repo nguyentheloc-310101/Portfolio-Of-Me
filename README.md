@@ -94,6 +94,34 @@
             <br>Tensorflow
         </td>
     </tr>
+  <tr>
+      <td align="center" width="96">
+           <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+        </td>
+        <td align="center" width="96">
+           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+            <br>Postgres
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
+            <br>Supabase
+        </td>
+     <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+            <br>Mongodb
+        </td>
+      <td align="center" width="96">
+            <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+            <br>Linux
+        </td>
+     <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="latex" />
+            <br>Latex
+        </td>
+    </tr>
 </table>
 <br><br>
 </div>
