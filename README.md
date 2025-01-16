@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m  working on **Vistor Management Embed AI solution (face detection) Native App and some e-commerce websites**
+- 🔭 I’m  working on **Vistor Management Embed AI solution (face detection) Native App, Cyber Security (EDR) and some e-commerce websites**
 
 - 🌱 I’m  work with **Nextjs, supabase, Pygame, TailwindCSS, Vitejs, TinyML, ExpressJs, Nodejs, Zustand, Expo Go (React Native)**
   
